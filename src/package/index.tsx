@@ -1,0 +1,1 @@
+export {default as WarKade} from '../app/WarKadeApp';
